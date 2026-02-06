@@ -1,0 +1,14 @@
+transformers==4.28.0
+numpy==1.23.0
+fvcore
+geotorch
+wandb
+open_clip_torch==2.0.2
+nltk
+timm
+einops
+loguru
+matplotlib
+seaborn
+scipy
+nltk
